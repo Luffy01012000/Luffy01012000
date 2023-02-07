@@ -28,7 +28,7 @@
             height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.svgrepo.com/show/472497/c.svg" alt="c" width="40"
             height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg"
+            src="https://icons8.com/icon/3BTBsJs5myRy/css3"
             alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://www.svgrepo.com/show/303231/docker-logo.svg"
