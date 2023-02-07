@@ -35,20 +35,20 @@
             alt="docker" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            src="https://www.behance.net/gallery/6396021/HTML51-Logo/modules/49604597"
             alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.jenkins.io" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"
             height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
             height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" alt="linux"
             width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxGhz33np5RwmfZIZcS6ERZGfURsPaPJxuMZncUYfQdw&s"
             alt="mysql" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
         rel="noreferrer"> <img
             src="https://www.adobe.com/content/dam/cc/Adobe_favicon.ico"
